@@ -1,0 +1,44 @@
+.nav-link ,a {color: white !important;}
+ .navitem,a:hover{color: #d64d2f !important;}
+
+ .navbar{
+	opacity: 0.8;
+	border-bottom: white 3px solid;
+}
+#header{
+	background: url('./headerImg.jpg') no-repeat;
+	min-height: 600px;
+	background-size: cover;
+	background-attachment: fixed;
+
+}
+.textVisible{
+	
+padding: 2px;
+width: 100%;
+}
+.textInner{
+	padding-top:180px; 
+	color: white;}
+
+
+#services{
+	color:black;
+	opacity: 0.6;
+}
+
+.style{
+	font-size: 32px;
+	font-weight: bold;
+padding-right: 0px;
+padding-left:15px;
+}
+.work{background-color: rgb(222, 225, 229,0.7)}
+.contact .fa{
+	font-size: 28px;
+	border-radius: 5px;
+	padding: 10px;
+	color: #a6bddb;
+}
+.contact{padding-top: 20px;
+margin-top: 10px;}
